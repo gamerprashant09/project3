@@ -19,7 +19,7 @@ You are my best friend, my partner in crime, my safe haven, and my greatest adve
 
 I love you more than words can express, more than actions can show, and more than time can measure. You are my forever and always. and the last I want to say sorry from deep in my heart`
 
-  const endingText = "There’s one last thing I wish could last forever…"
+  const endingText = "There’s one last thing I wish could last forever… meri butki"
 
   useEffect(() => {
     let index = 0
